@@ -89,7 +89,7 @@ select {
 
 .main {
   padding-top: 47px;
-  background: url("/assets/img/Bg.jpg") no-repeat center top;
+  background: url("../assets/img/Bg.jpg") no-repeat center top;
   background-size: cover;
   color: white;
   font-weight: 400;
