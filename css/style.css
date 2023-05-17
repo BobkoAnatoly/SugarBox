@@ -190,7 +190,7 @@ select {
 
 .catalog {
   background-color: #fff;
-  background: url("/assets/img/листики.png") no-repeat center top;
+  background: url("../assets/img/листики.png") no-repeat center top;
   z-index: 10;
 }
 .catalog__items {
@@ -248,7 +248,7 @@ select {
 }
 
 .content {
-  background: url(/assets/img/Контент.png) no-repeat center top;
+  background: url(../assets/img/Контент.png) no-repeat center top;
   background-size: cover;
   position: relative;
   padding-top: 423px;
@@ -278,7 +278,7 @@ select {
   width: 580px;
 }
 .about__inner-img {
-  background: url(/assets/img/woman.png) no-repeat center top;
+  background: url(../assets/img/woman.png) no-repeat center top;
   background-size: contain;
   height: 800px;
   width: 580px;
@@ -379,7 +379,7 @@ select {
 }
 
 .feedbacks {
-  background: url("/assets/img/feedback_bg.png") no-repeat center top;
+  background: url("../assets/img/feedback_bg.png") no-repeat center top;
   background-color: #081130;
   background-size: cover;
   padding-bottom: 250px;
